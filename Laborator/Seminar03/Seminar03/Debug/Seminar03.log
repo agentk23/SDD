@@ -1,0 +1,4 @@
+﻿  Seminar03.c
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar03\Seminar03\Seminar03.c(26,57): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar03\Seminar03\Seminar03.c(27,11): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+  Seminar03.vcxproj -> C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar03\Seminar03\Debug\Seminar03.exe

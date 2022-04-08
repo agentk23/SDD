@@ -1,0 +1,9 @@
+﻿  Seminar02.c
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(25,13): warning C4476: 'fscanf' : unknown type field character '.' in format specifier
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(25,21): warning C4474: 'fscanf' : too many arguments passed for format string
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(25,21): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(27,57): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(28,11): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(74,19): error C2040: 'a1': 'Aernoave *' differs in levels of indirection from 'Aeronava'
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(76,21): error C2088: '[': illegal for struct
+C:\Users\dogar\OneDrive\Desktop\Structuri de date\Seminar02\02_Seminar\Seminar02.c(76,18): error C2198: 'afisareAeronava': too few arguments for call

@@ -1,0 +1,10 @@
+3
+2
+4 20.6 Boeing
+7 10.3 Airbus
+1
+10 50.3 Lufthansa
+3
+4 20.6 Boeing2
+7 10.3 Airbus3
+40 21.2 Airship5
